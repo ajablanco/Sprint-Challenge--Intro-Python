@@ -22,7 +22,7 @@
 class Vehicle():
     pass
 
-
+#base class for starship and airplane
 class FlightVehicle(Vehicle):
     pass
 
@@ -34,7 +34,7 @@ class Starship(FlightVehicle):
 class Airplane(FlightVehicle):
     pass
 
-
+#base class for car and motorcycle
 class GroundVehicle(Vehicle):
     pass
 
